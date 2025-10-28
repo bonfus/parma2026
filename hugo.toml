@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Advances in quantum magnetism and superconductivity - Parma 8-9 January 2026"
+title = "Advances in Quantum Magnetism and Superconductivity - Parma 8-9 January 2026"
 theme = "hugo-scroll"
 
 [params]

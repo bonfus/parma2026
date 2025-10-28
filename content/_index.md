@@ -9,7 +9,7 @@ header_use_video: false
 #header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Advances in quantum magnetism and superconductivity"
+header_headline: "Advances in Quantum Magnetism and Superconductivity"
 header_subheadline: "Parma 8-9 January 2026"
 
 # Add a 'Go back to top' item to the navigation menu
