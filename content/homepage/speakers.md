@@ -8,8 +8,8 @@ Roberto De Renzi
   
 Stephen Blundell 
 
-Bernard Buchner 
+Bernd Büchner
 
 Pietro Carretta 
 
-Vesna Mitrovic 
+Vesna Mitrović
