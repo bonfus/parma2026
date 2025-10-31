@@ -1,10 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Advances in Quantum Magnetism and Superconductivity - Parma 8-9 January 2026"
+title = "Advances in Quantum Magnetism and Superconductivity"
 theme = "hugo-scroll"
 
-[params]
+contentDir = "content"
 
+[markup]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
 
@@ -23,10 +28,10 @@ theme = "hugo-scroll"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Advances in quantum magnetism and superconductivity - Parma 8-9 January 2026"
+    title = "Advances in quantum magnetism and superconductivity"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Workshop in honor of Roberto De Renzi"
+    description = "Parma 8-9 January 2026"
 
     # Show a menu of languages available
     language_menu = false

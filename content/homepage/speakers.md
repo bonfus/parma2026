@@ -1,15 +1,15 @@
 ---
-title: "Speakers"
+title: "Invited Speakers"
 weight: 3
 header_menu: true
 ---
 
-Roberto De Renzi
+Roberto De Renzi - University of Parma
   
-Stephen Blundell 
+Stephen J. Blundell - University of Oxford
 
-Bernd Büchner
+Bernd Büchner - IFW Dresden and Dresden University of Technology
 
-Pietro Carretta 
+Pietro Carretta - University of Pavia 
 
-Vesna Mitrović
+Vesna Mitrovic&#x301; - Brown University
