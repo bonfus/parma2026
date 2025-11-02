@@ -25,7 +25,7 @@
 {{ $stylesheetScreen := resources.Get "css/screen.css" }}
 {{ $stylesheet := slice $stylesheetNormalize $stylesheetFA $stylesheetFonts $stylesheetScreen | resources.Concat "css/style.css" | resources.Minify | resources.Fingerprint }}
 
-<link rel="stylesheet" href="{{ $stylesheet.Permalink }}" type="text/css" integrity="{{ $stylesheet.Data.Integrity }}" />
+<link rel="stylesheet" href="{{ $stylesheet.RelPermalink }}" type="text/css" integrity="{{ $stylesheet.Data.Integrity }}" />
 
 {{ template "_internal/opengraph.html" . }}
 {{ template "_internal/twitter_cards.html" . }}
