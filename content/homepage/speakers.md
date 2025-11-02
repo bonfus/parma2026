@@ -1,6 +1,6 @@
 ---
-title: "Invited Speakers"
-weight: 3
+title: "Speakers"
+weight: 2
 header_menu: true
 ---
 
