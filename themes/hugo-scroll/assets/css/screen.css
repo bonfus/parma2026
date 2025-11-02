@@ -130,6 +130,7 @@ a:hover {
   color: #a60000;
 }
 
+
 a.btn {
   text-decoration: none;
   background-color: #860000;
@@ -469,6 +470,10 @@ li {
 .post-holder.dark {
   background: #b80135;
   color: white;
+}
+
+.post-holder.dark a:hover {
+  color: #bbb;
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
