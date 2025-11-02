@@ -1,4 +1,4 @@
-baseURL = 'https://www.advmagsc.eu/'
+baseURL = 'advmagsc.eu'
 languageCode = 'en-us'
 title = "Advances in Quantum Magnetism and Superconductivity"
 theme = "hugo-scroll"
