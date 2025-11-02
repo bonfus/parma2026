@@ -4,4 +4,4 @@ weight: 4
 header_menu: true
 ---
 
-an email @ address
+For more information contact [info@advmagsc.eu](mailto:info@advmagsc.eu)
