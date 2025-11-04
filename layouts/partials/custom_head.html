@@ -1,19 +1,5 @@
-<script>
-function sendMail() {
-    var name = document.getElementById('name').value;
-    var surname = document.getElementById('surname').value;
-    var affiliation = document.getElementById('affiliation').value;
-    var dinner = document.getElementById('dinner').value;
 
-    // Build the mailto link
-    var subject = 'AdvMagSC Registration - ' + name + ' ' + surname;
-    var body = 
-        'Name: ' + name + '%0D%0A' + 
-        'Surname: ' + surname + '%0D%0A' + 
-        'Affiliation: ' + affiliation + '%0D%0A%0D%0A' +
-        'Dinner: ' + dinner;
+{{ $scriptMail := resources.Get "js/mailer.js" }}
+{{ $js := slice $scriptMail | resources.Concat "js/mail-script.js" | resources.Minify | resources.Fingerprint }}
 
-    window.location.href = 'mailto:info@advmagsc.eu?subject=' + encodeURIComponent(subject) + '&body=' + body;
-}
-</script>
-
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" ></script>
