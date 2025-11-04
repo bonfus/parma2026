@@ -1,0 +1,24 @@
+{{ if eq .Type "register" }}
+<div class="post page">
+<form id="contact">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <label for="surname">Surname:</label><br>
+    <input type="text" id="surname" name="surname" required><br><br>
+
+    <label for="affiliation">Affiliation:</label><br>
+    <input type="text" id="affiliation" name="affiliation" required><br><br>
+
+    <label for="dinner">Do you think you will be present for the dinner on January 8 (to be defined yet)?</label><br>
+    <select id="dinner" name="dinner" required>
+        <option value="">-- Please choose an option --</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+        <option value="Maybe">Maybe</option>
+    </select><br><br>
+
+    <button type="button" class="btn btn-primary" onclick="sendMail()">Send Email</button>
+</form>
+</div>
+{{ end }}
