@@ -1,5 +1,6 @@
 {{ if eq .Type "register" }}
 <div class="post page">
+<h2>Registration Form</h2>
 <form id="contact">
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name" required><br><br>
@@ -18,7 +19,7 @@
         <option value="Maybe">Maybe</option>
     </select><br><br>
 
-    <button type="button" class="btn btn-primary" onclick="sendMail()">Send Email</button>
+    <button type="button" class="btn btn-primary" onclick="sendMail()">Open Email</button>
 </form>
 </div>
 {{ end }}

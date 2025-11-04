@@ -6,12 +6,12 @@ function sendMail() {
     var dinner = document.getElementById('dinner').value;
 
     // Build the mailto link
-    var subject = 'Registration Information - ' + name + ' ' + surname;
+    var subject = 'AdvMagSC Registration - ' + name + ' ' + surname;
     var body = 
         'Name: ' + name + '%0D%0A' + 
         'Surname: ' + surname + '%0D%0A' + 
         'Affiliation: ' + affiliation + '%0D%0A%0D%0A' +
-        'Dinner attendance (January 8): ' + dinner;
+        'Dinner: ' + dinner;
 
     window.location.href = 'mailto:info@advmagsc.eu?subject=' + encodeURIComponent(subject) + '&body=' + body;
 }

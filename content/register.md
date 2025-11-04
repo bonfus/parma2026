@@ -5,4 +5,4 @@ title = "Register"
 type = "register"
 +++
 
-Please fill your details below. The button will open a precompiled email for you. In case of problem just send the same details to info@advmagsc.eu.
+Please fill in your details below. The button will open a precompiled email ready to be sent. In case of problems, please write the same details requested below to info@advmagsc.eu.
