@@ -13,7 +13,7 @@ Topics will include novel quantum magnetic materials, unconventional superconduc
 
 The workshop will also offer an opportunity to celebrate the scientific career and contributions of Prof. Roberto De Renzi, whose work has significantly advanced the field of quantum magnetism and strongly correlated systems by using local probe investigation.
 
-The workshop will be held in the [Auditorium "Centro Sant'Elisabetta"](santelisabetta) Parma, Italy, on 7<sup>th</sup> and 8<sup>th</sup> of January 2026.
+The workshop will be held in the [Auditorium "Centro Sant'Elisabetta"](santelisabetta) Parma, Italy, on 8<sup>th</sup> and 9<sup>th</sup> of January 2026.
 
 
 Scientific and organizing commettee: Giuseppe Allodi, Pietro Bonfà, Stefano Carretta, Luigi Cristofolini, Massimo Ghidini, Mauro Riccò, Samuele Sanna, Paolo Santini, Massimo Solzi.
