@@ -14,4 +14,4 @@ Pietro Carretta - University of Pavia
 
 Vesna Mitrovic&#x301; - Brown University
 
-[Full program here](program)
+[See full program here](program)
