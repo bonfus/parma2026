@@ -4,8 +4,10 @@ draft = false
 title = 'Program'
 +++
 
+
+[Click HERE for the program in PDF format](/program.pdf)
+
 ![](/program.png)
 
-[Program in PDF format](/program.pdf)
 
 

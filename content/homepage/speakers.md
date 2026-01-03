@@ -1,5 +1,5 @@
 ---
-title: "Speakers"
+title: "Speakers and Program"
 weight: 2
 header_menu: true
 ---
